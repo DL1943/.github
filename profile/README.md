@@ -1,5 +1,10 @@
 The book "**Deep Learning: DL1943 Cheatsheet: DL/AI/ML Research, Engineering, Optimization & System Design**" is the only book you need to master Deep Learning (DL) concepts.
 
+Link to book on Amazon: https://amzn.to/4ijUvIa
+
+<img width="160px" alt="DL1943 CHEATSHEET BOOK" src="https://github.com/user-attachments/assets/dac3b924-4f9c-4ee4-9de6-64c6fb2f54c5" />
+
+
 This book include:
 
 * Chapters covering all core concepts in DL research, engineering and optimization including:
